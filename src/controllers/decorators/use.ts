@@ -1,4 +1,4 @@
-import 'reflect-metadata'
+import 'reflect-metadata';
 import { MetadataKeys } from './MetadataKeys'
 import { RequestHandler } from 'express'
 
